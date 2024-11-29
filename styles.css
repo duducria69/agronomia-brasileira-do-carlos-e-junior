@@ -34,7 +34,7 @@ header {
     }
     .categorias-videos{
         display:flexoveflow-x:auto;
-        gap: 10px
+        gap: 10px;
     }
     .categoria {
         padding-left: 20px;
